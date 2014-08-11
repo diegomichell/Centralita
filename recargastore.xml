@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:recargaStore xmlns:ns2="org.centralita.model">
+    <recargas>
+        <monto>25</monto>
+        <numero>809-921-2941</numero>
+    </recargas>
+    <recargas>
+        <monto>75</monto>
+        <numero>809-459-2913</numero>
+    </recargas>
+    <recargas>
+        <monto>125</monto>
+        <numero>809-129-3912</numero>
+    </recargas>
+</ns2:recargaStore>

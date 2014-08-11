@@ -1,0 +1,5 @@
+#Class files#
+*.class
+
+# Dist #
+/dist
